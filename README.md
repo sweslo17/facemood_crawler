@@ -2,7 +2,7 @@
 -------------------
 
 顏文字卡爬蟲
-* 抓取顏文字卡(http://facemood.grtimed.com/index.php)所有顏文字資料
+* 抓取顏文字卡(http://facemood.grtimed.com/index.php) 所有顏文字資料
 
 # 安裝說明
 -------------------
