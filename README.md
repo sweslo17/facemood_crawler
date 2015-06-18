@@ -17,4 +17,4 @@ pip install -r requirements.txt
 
 # 使用說明
 -------------------
-* `python crawler.py
+* `python crawler.py`
